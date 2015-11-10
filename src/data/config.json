@@ -1,0 +1,19 @@
+{
+  "db":{
+    "dev_url":"http://dev-db.sampledbserver.com",
+    "dev_status":"U",
+    "pilot_url":"http://pilot-db.sampledbserver.com",
+    "pilot_status":"U",
+    "prod_url":"http://prod-db.sampledbserver.com",
+    "prod_status":"U"
+  },
+  "app":{
+    "dev_url":"http://dev-app.xyz.com",
+    "dev_status":"U",
+    "pilot_url":"http://pilot-app.xyz.com",
+    "pilot_status":"U",
+    "prod_url":"http://www.xyz.com",
+    "prod_status":"U"
+  }
+
+}

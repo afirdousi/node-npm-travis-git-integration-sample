@@ -1,0 +1,28 @@
+{
+  "name": "enterprise-config",
+  "version": "1.0.0",
+  "description": "This is a sample Node JS Module for showing how to setup travis ci with git for enterprise Node JS modules",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/afirdousi/node-npm-travis-git-integration-sample.git"
+  },
+  "keywords": [
+    "NodeJS",
+    "Travic",
+    "CI",
+    "Git",
+    "JavaScript",
+    "Module",
+    "Sample"
+  ],
+  "author": "'Anas <'anas.firdousi@gmail.com'>",
+  "license": "'MIT'",
+  "bugs": {
+    "url": "https://github.com/afirdousi/node-npm-travis-git-integration-sample/issues"
+  },
+  "homepage": "https://github.com/afirdousi/node-npm-travis-git-integration-sample"
+}
