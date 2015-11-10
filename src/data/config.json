@@ -13,7 +13,18 @@
     "pilot_url":"http://pilot-app.xyz.com",
     "pilot_status":"U",
     "prod_url":"http://www.xyz.com",
-    "prod_status":"U"
+    "prod_status":"U",
+    "contextRoot" : "/xyz",
+    "authentication": {
+      "secretKey": "xxxxxxxxxsome-sample-keyxxxxxxxxxx",
+      "authorizedClients": [
+        {
+          "id": "browser",
+          "secret": "secret*app"
+        }
+      ]
+    }
+
   }
 
 }

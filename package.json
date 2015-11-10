@@ -1,6 +1,6 @@
 {
   "name": "enterprise-config",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "This is a sample Node JS Module for showing how to setup travis ci with git for enterprise Node JS modules",
   "main": "src/index.js",
   "scripts": {
