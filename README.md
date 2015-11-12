@@ -1,17 +1,21 @@
 # node-npm-travis-git-integration-sample
 
-Purpose:
+###Purpose:
 
-In this sample our goal is to setup a testable Node JS environment with continuous integration(CI) in place.
+>In this sample our goal is to setup a testable Node JS environment with continuous integration(CI) in place.
 
-Libraries/Frameworks:
+###Libraries/Frameworks:
 
-We are using,
-Node JS: To create sample Node JS modules
-Jasmine: As a testing framework
-Karma: As a test runner
-Browserify: Helps us with require() in browser environment
+>We are using,
+.Node JS: To create sample Node JS modules
+>Jasmine: As a testing framework
+>Karma: As a test runner
+>Browserify: Helps us with require() in browser environment
 
-Steps:
+###Steps:
 
-I will be updating setup steps in upcoming releases.
+>I will be updating setup steps in upcoming releases.
+
+###Status:
+
+>Work in progress
