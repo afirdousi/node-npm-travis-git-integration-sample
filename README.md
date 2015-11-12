@@ -7,10 +7,10 @@
 ###Libraries/Frameworks:
 
 >We are using,
-.Node JS: To create sample Node JS modules
->Jasmine: As a testing framework
->Karma: As a test runner
->Browserify: Helps us with require() in browser environment
+*Node JS: To create sample Node JS modules
+*Jasmine: As a testing framework
+*Karma: As a test runner
+*Browserify: Helps us with require() in browser environment
 
 ###Steps:
 
