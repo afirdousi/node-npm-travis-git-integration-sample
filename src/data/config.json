@@ -20,7 +20,7 @@
       "authorizedClients": [
         {
           "id": "browser",
-          "secret": "secret*app"
+          "secret": "secret*app*123456"
         }
       ]
     }
