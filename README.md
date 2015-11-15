@@ -1,5 +1,7 @@
 # node-npm-travis-git-integration-sample
 
+[![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/)
+
 ###Purpose:
 
 >In this sample our goal is to setup a testable Node JS environment with continuous integration(CI) in place.
